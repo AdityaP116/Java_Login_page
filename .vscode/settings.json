@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "LoginJSP/web/WEB-INF/lib/**/*.jar",
+        "C:/Users/Admin/Desktop/java_practicals/exp4/java_practicals/apache-tomcat-9.0.87/lib/servlet-api.jar"
+    ]
+}
